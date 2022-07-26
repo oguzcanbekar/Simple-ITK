@@ -1,0 +1,4 @@
+SimpleITK is a simplified programming interface to the algorithms and data structures of the Insight Toolkit (ITK) for
+segmentation, registration and advanced image analysis. It supports bindings for multiple programming languages including
+C++, Python, R, Java, C#, Lua, Ruby and TCL. Combining SimpleITK’s Python bindings with the Jupyter notebook web application
+creates an environment which facilitates collaborative development of biomedical image analysis workflows.
